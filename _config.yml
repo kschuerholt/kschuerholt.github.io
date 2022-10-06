@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Konstantin Schürholt"
   avatar           : "profile_large.JPG"
-  bio              : "TODO Machine Learning researcher investigating populations of Neural Networks, self-supervised learning and multi-modal learning."
+  bio              : "Machine Learning researcher investigating populations of Neural Networks, self-supervised and meta learning, sparsity and ML for science."
   location         : "St. Gallen, Switzerland"
   employer         :  "AI:ML Lab, University of St. Gallen"
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/konstantin-schuerholt/"
+  linkedin         : konstantin-schuerholt #"https://www.linkedin.com/in/konstantin-schuerholt/"
   orcid            : "https://orcid.org/0000-0002-0983-3223"
   pinterest        :
   soundcloud       :
