@@ -17,7 +17,7 @@ Self-Supervised Learning (SSL) has been shown to learn useful and information-pr
 Bibtex:  
 ```
 @inproceedings{  
-  schürholt2021selfsupervised,    
+  schurholt2021selfsupervised,    
   title={Self-Supervised Representation Learning on Neural Network Weights for Model Characteristic Prediction},    
   author={Konstantin Schürholt and Dimche Kostadinov and Damian Borth},    
   booktitle={Advances in Neural Information Processing Systems},    
