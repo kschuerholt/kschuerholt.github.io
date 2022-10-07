@@ -1,5 +1,5 @@
 ---
-title: "Model Zoos: A Dataset of Diverse Populations of Neural Network Models"
+title: "On water vapor transport in snowpack models: Comparison of existing schemes, numerical requirements and the role of non-local advection."
 collection: publications
 permalink: /publication/2019_01_01-Water_vapor_transport
 excerpt: 'In this work, we investigate the numerical properties of coupled mass and energy equations of snow pack.'
