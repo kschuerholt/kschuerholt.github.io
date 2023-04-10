@@ -2,9 +2,9 @@
 title: "Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models"
 collection: publications
 permalink: /publication/2023-03-01-Sparsified_Model_Zoos
-excerpt: 'In this paper, we investigate sparsification on population level.'
+excerpt: 'In this paper, we apply common sparsification methods on population of Neural Networks and analyze their performance and relation between sparse and full models.'
 date: 2023-03-01
-venue: ''
+venue: 'ICLR Workshop on Sparsity in Neural Networks 2023'
 paperurl: ''
 citation: 'Honegger et al., 2023. &quot;Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models.&quot; <i>ICLR Workshop on Sparsity in Neural Networks</i> 2023.'
 ---

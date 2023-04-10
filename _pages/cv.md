@@ -15,7 +15,7 @@ Education
   * Topic: Self-Supervised Representation Learning of Populations of Neural Networks.
   * Advisor: Prof. Dr. Borth.
   * Funding: HSG Basic Research Fund and Google Research Scholar Award (contact: Erik Vee, Google Research).
-  * Research Visit: Michael Mahoney at ICSI, Berkeley, spring 2023. 
+  * Research Visit: Michael Mahoney at ICSI, Berkeley, Spring 2023. 
 * M.Sc. in General Mechanical Enginnering, RWTH Aachen University, 2016-2018.
   * Focus on Simulation Science, Numerical Math and Optimization. 
   * Thesis: *“Global Deterministic Training of Artificial Neural Networks."*, Advisor: Prof. Dr. Mitsos.
