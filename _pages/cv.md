@@ -15,6 +15,7 @@ Education
   * Topic: Self-Supervised Representation Learning of Populations of Neural Networks.
   * Advisor: Prof. Dr. Borth.
   * Funding: HSG Basic Research Fund and Google Research Scholar Award (contact: Erik Vee, Google Research).
+  * Research Visit: Michael Mahoney at ICSI, Berkeley, spring 2023. 
 * M.Sc. in General Mechanical Enginnering, RWTH Aachen University, 2016-2018.
   * Focus on Simulation Science, Numerical Math and Optimization. 
   * Thesis: *“Global Deterministic Training of Artificial Neural Networks."*, Advisor: Prof. Dr. Mitsos.
@@ -31,6 +32,7 @@ Summer Schools
 
 Honors, Grants, and Awards
 ======
+* HSG Impact Award 2023 for "Hyper-Representations: Learning from Populations of Neural Networks".
 * Google Research Scholar Award for "Hyper-Representations: Learning from Populations of Neural Networks", PI: Damian Borth, in 2022/2023.
 * DAAD/Voss Promos Scholorship for an engineering internship in Shanghai, China, in 2015/2016.
 * Germany Scholarship (’Deutschlandstipendium’) in the academic year 2014/2015.

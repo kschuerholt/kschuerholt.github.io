@@ -12,6 +12,8 @@ redirect_from:
 <!-- ====== -->
 <!-- 
 # TODO:
+# BIO re-read
+# News re-read
 # * Publications: update
 # * CV / Skills: check categories 
 -->
@@ -20,13 +22,19 @@ redirect_from:
 
 
 <!-- # Bio -->
-I'm a Researcher and 4th year PhD student at the [AIML Lab, University of St.Gallen](https://ics.unisg.ch/chair-aiml-borth/) under the supervision of [Damian Borth](https://www.unisg.ch/en/personenverzeichnis/31286cca-f810-49c7-9300-51149d93e1da), where I [investigate populations of Neural Networks](https://hsg-aiml.github.io/2021/11/09/Self_Supervised_Representation_Learning_on_Neural_Network_Weights_for_Model_Characteristic_Prediction.html). My original background is in mechanical engineering with a focus on simulation science and automatic control, which I studied at [RWTH Aachen University](https://www.rwth-aachen.de/cms/~a/root/?lidx=1). Before my PhD, I interned at the [Institute for Snow and Avalanche Research](https://www.slf.ch/en/index.html) with [Henning Loewe](https://www.slf.ch/en/employees/loewe.html) on the coupled simulation of energy and mass transfer in snowpack.
+I am a 4th year PhD Student at [AIML Lab, University of St.Gallen](https://ics.unisg.ch/chair-aiml-borth/) advised by Damian [Damian Borth](https://www.unisg.ch/en/personenverzeichnis/31286cca-f810-49c7-9300-51149d93e1da), with a focus on self-supervised representation learning on neural network weights. In my PhD, I investigate populations of neural networks and identify latent structure in such populations by learning so-called [hyper-representations.](https://hsg-aiml.github.io/2021/11/09/Self_Supervised_Representation_Learning_on_Neural_Network_Weights_for_Model_Characteristic_Prediction.html). My original background is in mechanical engineering with a focus on simulation science and automatic control, which I studied at [RWTH Aachen University](https://www.rwth-aachen.de/cms/~a/root/?lidx=1). During my studies, I visited Aalto University in Helsinki via an Erasmus scholarship, as well as Siemens via Jiatong-University in Shanghai as DAAD PROMOS scholar. Before my PhD, I interned at the [Institute for Snow and Avalanche Research](https://www.slf.ch/en/index.html) with [Henning Loewe](https://www.slf.ch/en/employees/loewe.html) on the coupled simulation of energy and mass transfer in snowpack. Currently, I am a visiting scholar with [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) at ICSI in Berkley, where I collaborate on an IARPA project extending hyper-representation for backdoor detection.
 
 <!-- # Research Statement -->
 I am driven by curiosity and a fascination for research, which allowed me to dive into several exciting fields and eventually led me to machine learning to study learning itself.  My current research focus lies on investigating populations of Neural Networks and has connections to self-supervised learning and transfer, meta and few-shot learning. To that end, I use self-supervised learning methods on populations of Neural Networks to learn abstract, task-invariant representations of models. These representations can then be used for several downstream tasks, such as i) model analysis, ii) generation of new models for abstract knowledge transfer, and iii) model sparsification in representation space. In addition, I am interested in multi-modal learning with data of different levels of abstractions and machine learning for science.
 
 News
 ======
+* I'll join **Google Brain** in Mountain View as **research intern** over the summer and will keep working on scaling Hyper-Representations for efficient knowledge aggregation. 
+* Damian and I are awarded the **HSG Impact Award 2023** for our work on Hyper-Representations.
+* **Invited Talk at Google Algorithms Seminar** in Mountain View: Hyper-Representations: Learning from Populations of Neural Networks.
+* I'm visiting Michael Mahoney in Spring 2023 for a few months to investigate the weight space and loss surface landscape of Neural Networks.
+* Paper accepted at **ICLR 2023 Workshop on Sparsity in Neural Networks**: Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models.
+* Paper accepted at **NeurIPS 2022 Climate Change AI Workshop**: Towards dynamic stability analysis of sustainable power grids using graph neural networks. [arxiv](https://arxiv.org/abs/2212.11130)
 * Paper accepted at **NeurIPS 2022 Track on Datasets and Benchmarks**: Model Zoos: A Dataset of Diverse Populations of Neural Networks. [openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [www.modelzoos.cc](ww.modelzoos.cc)
 * Paper accepted at **NeurIPS 2022**: Hyper-Representations as Generative Models: Sampling Unseen Neural Network Weights
 * Paper accepted at **ICML 2022 Workshop** on Pre-training: Perspectives, Pitfalls, and Paths Forward: Hyper-Representation for Pre-Training and Transfer Learning. [arxiv](https://arxiv.org/abs/2207.10951v1)
