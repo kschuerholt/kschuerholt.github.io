@@ -33,7 +33,7 @@ News
 * Damian and I are awarded the **HSG Impact Award 2023** for our work on Hyper-Representations.
 * **Invited Talk at Google Algorithms Seminar** in Mountain View: Hyper-Representations: Learning from Populations of Neural Networks.
 * I'm visiting Michael Mahoney in Spring 2023 for a few months to investigate the weight space and loss surface landscape of Neural Networks.
-* Paper accepted at **ICLR 2023 Workshop on Sparsity in Neural Networks**: Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models.
+* Paper accepted at **ICLR 2023 Workshop on Sparsity in Neural Networks**: Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models. [arxiv](https://arxiv.org/abs/2304.13718)
 * Paper accepted at **NeurIPS 2022 Climate Change AI Workshop**: Towards dynamic stability analysis of sustainable power grids using graph neural networks. [arxiv](https://arxiv.org/abs/2212.11130)
 * Paper accepted at **NeurIPS 2022 Track on Datasets and Benchmarks**: Model Zoos: A Dataset of Diverse Populations of Neural Networks. [openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [www.modelzoos.cc](ww.modelzoos.cc)
 * Paper accepted at **NeurIPS 2022**: Hyper-Representations as Generative Models: Sampling Unseen Neural Network Weights
