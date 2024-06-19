@@ -9,7 +9,125 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- # Konstantin Schürholt | Curriculum Vitae
+
+**Address:** Kesselhaldenstrasse 55 – 9016 St.Gallen – Switzerland  
+**Phone:** +41 (0) 76 716 78 34  
+**Email:** [konstantin.schuerholt@gmail.com](mailto:konstantin.schuerholt@gmail.com)  
+**Website:** [kschuerholt.github.io](http://kschuerholt.github.io)  
+**GitHub:** [github.com/kschuerholt](https://github.com/kschuerholt)
+
+--- -->
+
+## Research Interest
+
+In my PhD, I focused on representation learning on populations of neural networks, and applications in computer vision, natural language processing and physics. I am interested in working on and with representation learning, particularly on multi-modal data and challenging domains with high impact on science and society.
+
+---
+
+## Education
+
+**University of St.Gallen – PhD in Machine Learning**  
+06/2019 – 05/2024, *St.Gallen, Switzerland*  
+**Advisors:** Damian Borth (HSG), Michael Mahoney (UCB), Xavier Giro (UPC)  
+- **Topic:** Hyper-Representations: Learning from Populations of Neural Networks
+- **Honors:** Summa Cum Laude
+- **Funding:** HSG Basic Research Fund, Google Research Scholar Award and HSG Impact Award
+- **Research visit:** Prof. Mahoney at International Computer Science Institute, Berkeley, CA, 03/2023-05/2023 (Collaboration on scaling hyper-representation learning, weight analysis, and phase transitions in neural networks)
+- **Summer Schools:** OxML Oxford, 2022; GSERM St. Gallen, 2020; DeepLearn Warsaw, 2019
+
+**RWTH Aachen University – M.Sc. General Mechanical Engineering**  
+10/2016 – 04/2018, *Aachen, Germany*  
+**Research Track, Advisor:** Alexander Mitsos  
+- **Major:** Simulation Science, Numerical Mathematics, Optimization
+- **Thesis:** “Global Deterministic Training of Artificial Neural Networks”
+- **Research Assistant:** CATS Institute; contributions to compressible flow solvers for shock capturing and heat flux
+
+**RWTH Aachen University – B.Sc. Mechanical Engineering**  
+10/2012 – 09/2016, *Aachen, Germany*  
+**Advisor:** Philipp Abel  
+**Focus:** Energy Technology, Automatic Control  
+- **Thesis:** “Dynamic Reference Trajectory Generation for a Model Predictive Wind Turbine Controller”
+- **Erasmus Exchange:** Aalto University, Helsinki, Finland in 09/2014-03/2015
+- **Research Assistant:** Institute for Automatic Control; Research Intern: Siemens Mülheim and Shanghai
+
+---
+
+## Professional Experience
+
+**Postdoc at AIML Lab, University of St.Gallen**  
+06/2024–present, *St. Gallen, Switzerland*  
+- **Topic:** Weight Space Learning  
+  - **Project 1:** Combine models in abstract, learned representation space to join their knowledge
+  - **Project 2:** Identify phase transitions in neural network methods to build understanding of performance variations
+
+**Google Deepmind – PhD Research Intern**  
+09/2023–12/2023, *Mountain View, CA, USA*  
+- **Topic:** Learning Hyper-Representations to Mitigate Forgetting in LLMs  
+  - **Idea:** Prevented forgetting in LLM fine-tuning by penalizing distance to the pre-trained model in a learned model-representation-space; pre-trained the model-representation on LLM pre-training checkpoint history
+  - **Findings (preliminary):** Penalizing distance can reduce overfitting the fine-tuning task and mitigate forgetting
+  - **Engineering:** Full new code base built in Pax/Jax to integrate in Google Deepmind’s LLM pipeline
+
+**Institute for Snow and Avalanche Research – Research Intern**  
+07/2018–04/2019, *Davos, Switzerland*  
+- **Topic:** Simulate Coupled Heat and Mass Transfer in Snowpack  
+  - **Idea:** Implement numerically stable coupled, nonlinear FEM simulations in FEniCS
+  - **Findings:** Local instabilities in snowpack (weak layers) evolve naturally as solutions of governing physics
+
+---
+
+## Invited Talks and Review Activities
+
+**Invited Talks:**
+- Dartmouth College "Weight Space Learning: Learning from Populations of Neural Networks", 01/2024
+- Google Research: "Hyper-Representations: Learning from Populations of Neural Networks", 04/2023
+- International Computer Science Institute, Berkeley: "Hyper-Representations", 03/2023
+- University of St. Gallen, Deep Learning Lecture Series: "Hyper-Representations", 11/2022
+
+**Reviewer:**
+- **ICML:** 2024
+- **NeurIPS:** 2023, 2022 (Datasets and Benchmarks)
+- **WACV:** 2023
+
+---
+
+## Awards, Grants, and Activities
+
+- **SNSF Grant:** "Hyper-Representations: Learning from Populations of Neural Networks", PI: Damian Borth, 2024
+- **HSG Impact Award:** University of St. Gallen for "Hyper-Representations", jointly with Damian Borth, 2023
+- **Google Research Scholar Award:** "Hyper-Representations", PI: Damian Borth, in 2022/2023
+- **DAAD/Voss Promos Scholarship:** Engineering internship in Shanghai, China, in 2015/2016
+- **RWTH Dean’s List:** Best 5% of students in 2012/2013 and 2014/2015
+
+---
+
+## Teaching and Mentoring Experience
+
+**University of St.Gallen - Bachelor and Master Courses**  
+**Teaching Assistant**, Chair of Artificial Intelligence and Machine Learning, since 08/2019, *St. Gallen, Switzerland*  
+- ‘Machine Learning’ bachelor, master and executive education courses, coding labs and coding challenge
+- ‘Fundamentals and Methods of Computer Science’ bachelor level course for 400 students, coding labs
+
+**University of St.Gallen - Bachelor and Master Theses**  
+**Co-Supervision**, Chair of Artificial Intelligence and Machine Learning, since 08/2020, *St. Gallen, Switzerland*  
+- Damian Falk (Master Thesis), “Hyper-Representations on Diverse Unstructured Zoos.”, 2024
+- Julius Lautz (Master Thesis), “Adversarial Vulnerability of Populations of Neural Networks.”, 2023
+- Alex Lontke, Kris Reynisson (Master Project), “Using Stable Diffusion to Generate Neural Network Weights.”, 2022
+- Dominik Honegger (Master Thesis), “Neural Network Sparsification via Hyper-Representations.”, 2022
+- Thomas Fey (Master Thesis), “Membership Inference Attacks on Machine Learning Models”, 2021-2022
+- Diyar Taskiran (Bachelor Thesis), “Generating Diverse Neural Network Model Zoos”, 2021
+- Pol Caselles Rico (Master Thesis), “Disentangling Neural Network Structure from the Weights Space”, 2020/2021
+
+---
+
+## Technical Skills and Languages
+
+- **Machine Learning Stack:** PyTorch, Jax, Pax; hyper-opt: ray/tune
+- **Programming Languages:** Python (fluent); C, C++, fortran (basics)
+- **Languages:** German (mother tongue), English (fluent), and French (basics)
+
+
+<!-- Education
 ======
 * Ph.D in Machine Learning. AIML Lab, University of St. Gallen, 2019 - 2024 (expected)
   * Topic: Self-Supervised Representation Learning of Populations of Neural Networks.
@@ -90,7 +208,7 @@ Skills
   * German (mother tongue)
   * English (fluent)
   * French (basic proficiency)
-
+ -->
 
 Publications
 ======
