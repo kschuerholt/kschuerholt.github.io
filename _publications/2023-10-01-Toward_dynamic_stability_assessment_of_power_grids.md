@@ -6,7 +6,7 @@ excerpt: 'This paper investigats the applicability of Graph Neural Networks to p
 date: 2023-10-01
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
 paperurl: 'https://pubs.aip.org/aip/cha/article/33/10/103103/2914062'
-citation: 'Nauck et al., 2023. &quot;Toward dynamic stability assessment of power grid topologies using graph neural networks.&quot; <i>New Journal of Physics</i> 2022.'
+citation: 'Nauck et al., 2023. &quot;Toward dynamic stability assessment of power grid topologies using graph neural networks.&quot; <i>Chaos: An Interdisciplinary Journal of Nonlinear Science</i> 2023.'
 ---
 
 
