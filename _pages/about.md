@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am a recent PhD graduate from the [AIML Lab, University of St.Gallen](https://ics.unisg.ch/chair-aiml-borth/), where I was advised by [Damian Borth](https://www.unisg.ch/en/personenverzeichnis/31286cca-f810-49c7-9300-51149d93e1da), and co-adivsed by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and [Xavier Giro-i-Nieto](https://imatge.upc.edu/web/people/xavier-giro). My research focused on representation learning on neural network weights, specifically investigating populations of neural networks and identifying latent structures by learning hyper-representations. 
 
 During my PhD, I was a **visiting scholar** with [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) at **ICSI Berkeley**, collaborating on scaling hyper-representations to large models and diverse architectures and weight analysis. This collaboration extended to working with [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) on identifying and utilizing phase transitions in neural networks. Additionally, I completed a **PhD Research Internship** with [Minmin Chen](https://mchen24.github.io/) at **Google Deepmind**, focusing on data-free methods to mitigate forgetting in large language models.
