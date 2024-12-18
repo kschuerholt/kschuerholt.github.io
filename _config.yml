@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Konstantin Schürholt"
 title_separator          : "-"
 name                     : &name "Konstantin Schürholt"
-description              : &description "Researcher and PhD Candidate @ University of St. Gallen, Swizterland"
+description              : &description "Postdoc @ University of St. Gallen, Swizterland"
 url                      : https://kschuerholt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kschuerholt/kschuerholt.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Konstantin Schürholt"
   avatar           : "profile_large.JPG"
-  bio              : "Machine Learning researcher investigating populations of Neural Networks, self-supervised and meta learning, sparsity and ML for science."
+  bio              : "Machine Learning researcher investigating neural networks as data modality and phase transitions in neural networks."
   location         : "St. Gallen, Switzerland"
   employer         :  "AI:ML Lab, University of St. Gallen"
   pubmed           : 

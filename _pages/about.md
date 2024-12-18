@@ -12,12 +12,9 @@ I am a recent PhD graduate from the [AIML Lab, University of St.Gallen](https://
 
 During my PhD, I was a **visiting scholar** with [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) at **ICSI Berkeley**, collaborating on scaling hyper-representations to large models and diverse architectures and weight analysis. This collaboration extended to working with [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) on identifying and utilizing phase transitions in neural networks. Additionally, I completed a **PhD Research Internship** with [Minmin Chen](https://mchen24.github.io/) at **Google Deepmind**, focusing on data-free methods to mitigate forgetting in large language models.
 
-My original background is in mechanical engineering with a focus on simulation science and automatic control, studied at [RWTH Aachen University](https://www.rwth-aachen.de/cms/~a/root/?lidx=1). 
-I have visited Aalto University in Helsinki through an Erasmus scholarship and interned at Siemens via Jiatong-University in Shanghai as a DAAD PROMOS scholar. Before my PhD, I interned at the [Institute for Snow and Avalanche Research](https://www.slf.ch/en/index.html) with [Henning Loewe](https://www.slf.ch/en/staff/loewe/) on coupled simulations of energy and mass transfer in snowpack. 
-
 ## Research Statement
 
-As a PostDoc at AIML Lab, my research focuses on scaling hyper-representations towards foundation models of neural networks, which could allow model initialization to be tailored to a specific task or dataset, as well as how models are tuned or evaluated. 
+As a PostDoc at AIML Lab, my research focuses on scaling hyper-representations towards foundation models of neural networks, to generate model initialization tailored to a specific task or dataset. 
 Further, I continue work on investigating and operationalizing phase transitions in neural network models, which may build understanding on when and why neural network methods perform well. 
 
 I am broadly interested in representation learning, particularly in challenging and impactful domains with sparse and multi-modal data, such as scientific and biomedical applications.
@@ -25,10 +22,14 @@ I am broadly interested in representation learning, particularly in challenging 
 ## News
 
 - **2024**
-  - Paper accepted at **ICML 2024 GRaM Workshop**: "Dirac-Bianconi Graph Neural Networks – Enabling Non-Diffusive Long-Range Graph Predictions"
+  - Our workshop for Weight Space Learning was accepted at **ICLR 2025**! [workshop homepage](https://weight-space-learning.github.io/)
+  - Invited talk at [Deep Learning Barcelona Symposium](https://sites.google.com/view/dlbcn2024/program/talks) on Weight Space Learning
+  - Invited talk at TU Eindhoven on Phase Transitions in Neural Networks
+  - Invited talk at UPenn on Weight Space Learning
   - Two papers accepted at **ICML 2024**:
     - "Towards Scalable and Versatile Weight Space Learning" [arxiv](https://arxiv.org/abs/2406.09997)
     - "MD tree: a model-diagnostic tree grown on loss landscape" [openreview](https://openreview.net/forum?id=teHPKqjX8q)
+  - Paper accepted at **ICML 2024 GRaM Workshop**: "Dirac-Bianconi Graph Neural Networks – Enabling Non-Diffusive Long-Range Graph Predictions"
   - **Completed my PhD at the University of St.Gallen with honors (Summa Cum Laude)**.
   - Reviewer for **International Conference on Machine Learning (ICML)** 2024.
   - **Invited Talk at Dartmouth College**: Weight Space Learning: Learning from Populations of Neural Networks, 01/2024.
